@@ -2,7 +2,7 @@
 
 
 This is a small task using SpringMVC,SpringJDBC,JSP,HTML,CSS.
-In this task i created a registration form for registering a employee.
+In this task i created a registration form for registaring a employee.
 Created a login page for employee to login.
 In login page provided forgot passsword service where user can use it when he forgot his credentials.
 Employee who is created as admin can view all employees details by providing his credentials with his role name as admin.
